@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Flips Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Flips.Finance is a NFT analytics site that gives you real-time data, research, and personalized trading dashboards.
 
 ## Getting Started
 
