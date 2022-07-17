@@ -6,7 +6,7 @@ import React from "react";
 export const definitions = [
   {
     Statistic: "Delistings",
-    Definition: "The number of NFTs in a collection that are listed for at any price",
+    Definition: "The number of NFTs in a collection that are listed at any price",
   },
   {
     Statistic: "Floor",
@@ -44,11 +44,11 @@ export const columns = [
     Header: "Statistic",
     accessor: "Statistic",
     className: "pester-data-table left",
-    Cell: ({ cell: { value }, row: { original } }) => (
-      <a href={`${original.url}`} target="blank" rel="noreferrer noopener">
-        {value}
-      </a>
-    ),
+    // Cell: ({ cell: { value }, row: { original } }) => (
+    //   <a href={`${original.url}`} target="blank" rel="noreferrer noopener">
+    //     {value}
+    //   </a>
+    // ),
   },
   {
     Header: "Definition",

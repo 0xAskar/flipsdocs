@@ -1,8 +1,8 @@
 {
   "label": "Guide",
-  "position": 4,
+  "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Definitions for the various analytics found on Flips"
+    "description": "Here are various links, definitions, and help for Flips"
   }
 }
