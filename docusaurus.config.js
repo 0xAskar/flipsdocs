@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/flipswatermark.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -33,18 +33,19 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/0xAskar/flipsdocs.git',
+          // editUrl:
+          //   'https://github.com/0xAskar/flipsdocs.git',
         },
         blog: {
           showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/0xAskar/flipsdocs.git',
+          // editUrl:
+          //   'https://github.com/0xAskar/flipsdocs.git',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,7 +58,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Flips Docs',
         logo: {
           alt: 'Flips Logo',
           src: 'img/flipswatermark.png',
@@ -67,14 +67,20 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Help',
+            label: 'Docs',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://www.flips.finance/',
+            label: 'Flips',
+            position: 'right',
+          },
           {
             href: 'https://github.com/0xAskar/flipsdocs.git',
             label: 'GitHub',
             position: 'right',
           },
+          
         ],
       },
       footer: {
@@ -84,7 +90,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Help',
+                label: 'Docs',
                 to: '/docs/intro',
               },
             ],
@@ -103,19 +109,6 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/flipsfinance',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/0xAskar/flipsdocs.git',
               },
             ],
           },
