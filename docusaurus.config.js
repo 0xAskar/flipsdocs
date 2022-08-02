@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Flips.Finance Documentation',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.flips-docs.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
