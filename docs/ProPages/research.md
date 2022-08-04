@@ -77,12 +77,17 @@ mint price and royalty fees and the financial profit from them.
 
 This is how total revenue is calculated:  
 
-$$
-Revenue=(TotalSupply*MintPrice)+(TotalVolume * Royalty)
-$$
+:::info Total Revenue
+$Revenue=(TotalSupply*MintPrice)+(TotalVolume * Royalty)$
+:::
+
 Revenue is calculated by multiplying total supply by mint price plus royalty 
 fee times total volume. For collections released via dutch auction, mint revenue is 
 calculated based on an estimated average mint price.
+
+:::info Royalty Fee
+The 2.5% represents the Opensea royalty fee. We will include other marketplaces soon.
+:::
 
 The screenshot shows a portion of the projects. You can sort by any of those columns: Royalty,
 Mint Revenue, Royalty Revenue, Total ETH (Royalty Revenue + Mint Revenue) [orange box]
