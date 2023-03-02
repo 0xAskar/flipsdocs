@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ProPages copy/research",
+  "id": "ProPages copy/research",
+  "title": "Research",
+  "description": "Overview",
+  "source": "@site/docs/ProPages copy/research.md",
+  "sourceDirName": "ProPages copy",
+  "slug": "/ProPages copy/research",
+  "permalink": "/ProPages copy/research",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "War Room",
+    "permalink": "/ProPages copy/Warroom"
+  },
+  "next": {
+    "title": "Flips Discord Bot",
+    "permalink": "/FlipsDiscord"
+  }
+}

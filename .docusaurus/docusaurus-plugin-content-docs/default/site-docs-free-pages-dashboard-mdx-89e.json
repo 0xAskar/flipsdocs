@@ -1,0 +1,23 @@
+{
+  "unversionedId": "FreePages/dashboard",
+  "id": "FreePages/dashboard",
+  "title": "Dashboard",
+  "description": "Description",
+  "source": "@site/docs/FreePages/dashboard.mdx",
+  "sourceDirName": "FreePages",
+  "slug": "/FreePages/dashboard",
+  "permalink": "/FreePages/dashboard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Collection Page",
+    "permalink": "/FreePages/CollectionPage"
+  },
+  "next": {
+    "title": "Home Page",
+    "permalink": "/FreePages/homepage"
+  }
+}

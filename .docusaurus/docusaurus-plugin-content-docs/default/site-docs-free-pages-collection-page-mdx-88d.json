@@ -1,0 +1,23 @@
+{
+  "unversionedId": "FreePages/CollectionPage",
+  "id": "FreePages/CollectionPage",
+  "title": "Collection Page",
+  "description": "Description",
+  "source": "@site/docs/FreePages/CollectionPage.mdx",
+  "sourceDirName": "FreePages",
+  "slug": "/FreePages/CollectionPage",
+  "permalink": "/FreePages/CollectionPage",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flips Basic - Pages",
+    "permalink": "/category/flips-basic---pages"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/FreePages/dashboard"
+  }
+}

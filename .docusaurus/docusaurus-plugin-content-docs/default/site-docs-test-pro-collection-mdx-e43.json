@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Test/ProCollection",
+  "id": "Test/ProCollection",
+  "title": "Pro Collection",
+  "description": "asd",
+  "source": "@site/docs/Test/ProCollection.mdx",
+  "sourceDirName": "Test",
+  "slug": "/Test/ProCollection",
+  "permalink": "/Test/ProCollection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test menu",
+    "permalink": "/category/test-menu"
+  },
+  "next": {
+    "title": "War Room",
+    "permalink": "/Test/test1"
+  }
+}

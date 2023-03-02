@@ -1,0 +1,23 @@
+{
+  "unversionedId": "FreePages/homepage",
+  "id": "FreePages/homepage",
+  "title": "Home Page",
+  "description": "Description",
+  "source": "@site/docs/FreePages/homepage.mdx",
+  "sourceDirName": "FreePages",
+  "slug": "/FreePages/homepage",
+  "permalink": "/FreePages/homepage",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/FreePages/dashboard"
+  },
+  "next": {
+    "title": "Flips Pro - Pages",
+    "permalink": "/category/flips-pro---pages"
+  }
+}

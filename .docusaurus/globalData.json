@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Contact",
+              "path": "/Contact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Definitions",
+              "path": "/Definitions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FAQ",
+              "path": "/FAQ",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FlipsDiscord",
+              "path": "/FlipsDiscord",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FreePages/CollectionPage",
+              "path": "/FreePages/CollectionPage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FreePages/dashboard",
+              "path": "/FreePages/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FreePages/homepage",
+              "path": "/FreePages/homepage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Home_test",
+              "path": "/Home_test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Pricing",
+              "path": "/Pricing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ProPages/ProCollection",
+              "path": "/ProPages/ProCollection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ProPages/research",
+              "path": "/ProPages/research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ProPages/Warroom",
+              "path": "/ProPages/Warroom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test/ProCollection",
+              "path": "/Test/ProCollection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test/test1",
+              "path": "/Test/test1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test/test2",
+              "path": "/Test/test2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Test/test3",
+              "path": "/Test/test3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/flips-basic---pages",
+              "path": "/category/flips-basic---pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/flips-pro---pages",
+              "path": "/category/flips-pro---pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/test-menu",
+              "path": "/category/test-menu",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

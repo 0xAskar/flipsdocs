@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Contact",
+  "id": "Contact",
+  "title": "Contact Us",
+  "description": "Please, reach out if you have any questions, feedback, or suggestions.",
+  "source": "@site/docs/Contact.md",
+  "sourceDirName": ".",
+  "slug": "/Contact",
+  "permalink": "/Contact",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/FAQ"
+  },
+  "next": {
+    "title": "Home_test",
+    "permalink": "/Home_test"
+  }
+}

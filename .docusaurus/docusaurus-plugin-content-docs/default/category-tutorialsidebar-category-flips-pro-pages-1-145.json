@@ -1,0 +1,16 @@
+{
+  "title": "Flips Pro - Pages",
+  "description": "Here are various links, definitions, and help for Flips Pro Pages",
+  "slug": "/category/flips-pro---pages-1",
+  "permalink": "/category/flips-pro---pages-1",
+  "navigation": {
+    "previous": {
+      "title": "Research",
+      "permalink": "/ProPages/research"
+    },
+    "next": {
+      "title": "Pro Collection",
+      "permalink": "/Test/ProCollection"
+    }
+  }
+}

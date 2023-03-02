@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Definitions",
+  "id": "Definitions",
+  "title": "Definitions",
+  "description": "",
+  "source": "@site/docs/Definitions.mdx",
+  "sourceDirName": ".",
+  "slug": "/Definitions",
+  "permalink": "/Definitions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flips Discord Bot",
+    "permalink": "/FlipsDiscord"
+  },
+  "next": {
+    "title": "Pricing",
+    "permalink": "/Pricing"
+  }
+}

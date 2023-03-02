@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Test/test3",
+  "id": "Test/test3",
+  "title": "War Room",
+  "description": "teste  3",
+  "source": "@site/docs/Test/test3.md",
+  "sourceDirName": "Test",
+  "slug": "/Test/test3",
+  "permalink": "/Test/test3",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Research",
+    "permalink": "/Test/test2"
+  },
+  "next": {
+    "title": "Flips Discord Bot",
+    "permalink": "/FlipsDiscord"
+  }
+}

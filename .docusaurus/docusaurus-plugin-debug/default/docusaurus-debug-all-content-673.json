@@ -1,0 +1,845 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\freit\\Documents\\GitHub\\flipsdocs\\sidebars.js",
+          "contentPath": "C:\\Users\\freit\\Documents\\GitHub\\flipsdocs\\docs",
+          "contentPathLocalized": "C:\\Users\\freit\\Documents\\GitHub\\flipsdocs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Contact",
+              "id": "Contact",
+              "title": "Contact Us",
+              "description": "Please, reach out if you have any questions, feedback, or suggestions.",
+              "source": "@site/docs/Contact.md",
+              "sourceDirName": ".",
+              "slug": "/Contact",
+              "permalink": "/Contact",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/FAQ"
+              },
+              "next": {
+                "title": "Home_test",
+                "permalink": "/Home_test"
+              }
+            },
+            {
+              "unversionedId": "Definitions",
+              "id": "Definitions",
+              "title": "Definitions",
+              "description": "",
+              "source": "@site/docs/Definitions.mdx",
+              "sourceDirName": ".",
+              "slug": "/Definitions",
+              "permalink": "/Definitions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flips Discord Bot",
+                "permalink": "/FlipsDiscord"
+              },
+              "next": {
+                "title": "Pricing",
+                "permalink": "/Pricing"
+              }
+            },
+            {
+              "unversionedId": "FAQ",
+              "id": "FAQ",
+              "title": "FAQ",
+              "description": "Here are some of most asked questions and answers that we have. If none",
+              "source": "@site/docs/FAQ.md",
+              "sourceDirName": ".",
+              "slug": "/FAQ",
+              "permalink": "/FAQ",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pricing",
+                "permalink": "/Pricing"
+              },
+              "next": {
+                "title": "Contact Us",
+                "permalink": "/Contact"
+              }
+            },
+            {
+              "unversionedId": "FlipsDiscord",
+              "id": "FlipsDiscord",
+              "title": "Flips Discord Bot",
+              "description": "",
+              "source": "@site/docs/FlipsDiscord.md",
+              "sourceDirName": ".",
+              "slug": "/FlipsDiscord",
+              "permalink": "/FlipsDiscord",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "War Room",
+                "permalink": "/Test/test3"
+              },
+              "next": {
+                "title": "Definitions",
+                "permalink": "/Definitions"
+              }
+            },
+            {
+              "unversionedId": "FreePages/CollectionPage",
+              "id": "FreePages/CollectionPage",
+              "title": "Collection Page",
+              "description": "Description",
+              "source": "@site/docs/FreePages/CollectionPage.mdx",
+              "sourceDirName": "FreePages",
+              "slug": "/FreePages/CollectionPage",
+              "permalink": "/FreePages/CollectionPage",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flips Basic - Pages",
+                "permalink": "/category/flips-basic---pages"
+              },
+              "next": {
+                "title": "Dashboard",
+                "permalink": "/FreePages/dashboard"
+              }
+            },
+            {
+              "unversionedId": "FreePages/dashboard",
+              "id": "FreePages/dashboard",
+              "title": "Dashboard",
+              "description": "Description",
+              "source": "@site/docs/FreePages/dashboard.mdx",
+              "sourceDirName": "FreePages",
+              "slug": "/FreePages/dashboard",
+              "permalink": "/FreePages/dashboard",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Collection Page",
+                "permalink": "/FreePages/CollectionPage"
+              },
+              "next": {
+                "title": "Home Page",
+                "permalink": "/FreePages/homepage"
+              }
+            },
+            {
+              "unversionedId": "FreePages/homepage",
+              "id": "FreePages/homepage",
+              "title": "Home Page",
+              "description": "Description",
+              "source": "@site/docs/FreePages/homepage.mdx",
+              "sourceDirName": "FreePages",
+              "slug": "/FreePages/homepage",
+              "permalink": "/FreePages/homepage",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/FreePages/dashboard"
+              },
+              "next": {
+                "title": "Flips Pro - Pages",
+                "permalink": "/category/flips-pro---pages"
+              }
+            },
+            {
+              "unversionedId": "Home_test",
+              "id": "Home_test",
+              "title": "Home_test",
+              "description": "Welcome",
+              "source": "@site/docs/Home_test.md",
+              "sourceDirName": ".",
+              "slug": "/Home_test",
+              "permalink": "/Home_test",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contact Us",
+                "permalink": "/Contact"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Flips Intro",
+              "description": "What is Flips?",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Flips Basic - Pages",
+                "permalink": "/category/flips-basic---pages"
+              }
+            },
+            {
+              "unversionedId": "Pricing",
+              "id": "Pricing",
+              "title": "Pricing",
+              "description": "Our pricing is one of the cheapest out of the NFT analytical sites out there.",
+              "source": "@site/docs/Pricing.md",
+              "sourceDirName": ".",
+              "slug": "/Pricing",
+              "permalink": "/Pricing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Definitions",
+                "permalink": "/Definitions"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/FAQ"
+              }
+            },
+            {
+              "unversionedId": "ProPages/ProCollection",
+              "id": "ProPages/ProCollection",
+              "title": "Pro Collection",
+              "description": "Description",
+              "source": "@site/docs/ProPages/ProCollection.mdx",
+              "sourceDirName": "ProPages",
+              "slug": "/ProPages/ProCollection",
+              "permalink": "/ProPages/ProCollection",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Flips Pro - Pages",
+                "permalink": "/category/flips-pro---pages"
+              },
+              "next": {
+                "title": "War Room",
+                "permalink": "/ProPages/Warroom"
+              }
+            },
+            {
+              "unversionedId": "ProPages/research",
+              "id": "ProPages/research",
+              "title": "Research",
+              "description": "Overview",
+              "source": "@site/docs/ProPages/research.md",
+              "sourceDirName": "ProPages",
+              "slug": "/ProPages/research",
+              "permalink": "/ProPages/research",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "War Room",
+                "permalink": "/ProPages/Warroom"
+              },
+              "next": {
+                "title": "Test menu",
+                "permalink": "/category/test-menu"
+              }
+            },
+            {
+              "unversionedId": "ProPages/Warroom",
+              "id": "ProPages/Warroom",
+              "title": "War Room",
+              "description": "",
+              "source": "@site/docs/ProPages/Warroom.md",
+              "sourceDirName": "ProPages",
+              "slug": "/ProPages/Warroom",
+              "permalink": "/ProPages/Warroom",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pro Collection",
+                "permalink": "/ProPages/ProCollection"
+              },
+              "next": {
+                "title": "Research",
+                "permalink": "/ProPages/research"
+              }
+            },
+            {
+              "unversionedId": "Test/ProCollection",
+              "id": "Test/ProCollection",
+              "title": "Pro Collection",
+              "description": "asd",
+              "source": "@site/docs/Test/ProCollection.mdx",
+              "sourceDirName": "Test",
+              "slug": "/Test/ProCollection",
+              "permalink": "/Test/ProCollection",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test menu",
+                "permalink": "/category/test-menu"
+              },
+              "next": {
+                "title": "War Room",
+                "permalink": "/Test/test1"
+              }
+            },
+            {
+              "unversionedId": "Test/test1",
+              "id": "Test/test1",
+              "title": "War Room",
+              "description": "sdf",
+              "source": "@site/docs/Test/test1.md",
+              "sourceDirName": "Test",
+              "slug": "/Test/test1",
+              "permalink": "/Test/test1",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pro Collection",
+                "permalink": "/Test/ProCollection"
+              },
+              "next": {
+                "title": "Research",
+                "permalink": "/Test/test2"
+              }
+            },
+            {
+              "unversionedId": "Test/test2",
+              "id": "Test/test2",
+              "title": "Research",
+              "description": "Overview",
+              "source": "@site/docs/Test/test2.md",
+              "sourceDirName": "Test",
+              "slug": "/Test/test2",
+              "permalink": "/Test/test2",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "War Room",
+                "permalink": "/Test/test1"
+              },
+              "next": {
+                "title": "War Room",
+                "permalink": "/Test/test3"
+              }
+            },
+            {
+              "unversionedId": "Test/test3",
+              "id": "Test/test3",
+              "title": "War Room",
+              "description": "teste  3",
+              "source": "@site/docs/Test/test3.md",
+              "sourceDirName": "Test",
+              "slug": "/Test/test3",
+              "permalink": "/Test/test3",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Research",
+                "permalink": "/Test/test2"
+              },
+              "next": {
+                "title": "Flips Discord Bot",
+                "permalink": "/FlipsDiscord"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Flips Basic - Pages",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "FreePages/CollectionPage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "FreePages/dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "FreePages/homepage"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Details about the Free Flips pages ",
+                  "slug": "/category/flips-basic---pages",
+                  "permalink": "/category/flips-basic---pages"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Flips Pro - Pages",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ProPages/ProCollection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ProPages/Warroom"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ProPages/research"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Here are various links, definitions, and help for Flips Pro Pages",
+                  "slug": "/category/flips-pro---pages",
+                  "permalink": "/category/flips-pro---pages"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Test menu",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Test/ProCollection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test/test1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test/test2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Test/test3"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Here are various links, definitions, and help for Flips Pro Pages testttt",
+                  "slug": "/category/test-menu",
+                  "permalink": "/category/test-menu"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "FlipsDiscord"
+              },
+              {
+                "type": "doc",
+                "id": "Definitions"
+              },
+              {
+                "type": "doc",
+                "id": "Pricing"
+              },
+              {
+                "type": "doc",
+                "id": "FAQ"
+              },
+              {
+                "type": "doc",
+                "id": "Contact"
+              },
+              {
+                "type": "doc",
+                "id": "Home_test"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\r\n\r\nSimply add Markdown files (or folders) to the `blog` directory.\r\n\r\nRegular blog authors can be added to `authors.yml`.\r\n\r\nThe blog post date can be extracted from filenames, such as:\r\n\r\n- `2019-05-30-welcome.md`\r\n- `2019-05-30-welcome/index.md`\r\n\r\nA blog post folder can be convenient to co-locate blog post images:\r\n\r\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\r\n\r\nThe blog supports tags as well!\r\n\r\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\r\n\r\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\r\n\r\n<!--truncate-->\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 3,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

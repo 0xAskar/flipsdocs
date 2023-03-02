@@ -1,0 +1,246 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Flips Intro",
+        "href": "/",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Flips Basic - Pages",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Collection Page",
+            "href": "/FreePages/CollectionPage",
+            "docId": "FreePages/CollectionPage"
+          },
+          {
+            "type": "link",
+            "label": "Dashboard",
+            "href": "/FreePages/dashboard",
+            "docId": "FreePages/dashboard"
+          },
+          {
+            "type": "link",
+            "label": "Home Page",
+            "href": "/FreePages/homepage",
+            "docId": "FreePages/homepage"
+          }
+        ],
+        "href": "/category/flips-basic---pages"
+      },
+      {
+        "type": "category",
+        "label": "Flips Pro - Pages",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Pro Collection",
+            "href": "/ProPages/ProCollection",
+            "docId": "ProPages/ProCollection"
+          },
+          {
+            "type": "link",
+            "label": "War Room",
+            "href": "/ProPages/Warroom",
+            "docId": "ProPages/Warroom"
+          },
+          {
+            "type": "link",
+            "label": "Research",
+            "href": "/ProPages/research",
+            "docId": "ProPages/research"
+          }
+        ],
+        "href": "/category/flips-pro---pages"
+      },
+      {
+        "type": "category",
+        "label": "Test menu",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Pro Collection",
+            "href": "/Test/ProCollection",
+            "docId": "Test/ProCollection"
+          },
+          {
+            "type": "link",
+            "label": "War Room",
+            "href": "/Test/test1",
+            "docId": "Test/test1"
+          },
+          {
+            "type": "link",
+            "label": "Research",
+            "href": "/Test/test2",
+            "docId": "Test/test2"
+          },
+          {
+            "type": "link",
+            "label": "War Room",
+            "href": "/Test/test3",
+            "docId": "Test/test3"
+          }
+        ],
+        "href": "/category/test-menu"
+      },
+      {
+        "type": "link",
+        "label": "Flips Discord Bot",
+        "href": "/FlipsDiscord",
+        "docId": "FlipsDiscord"
+      },
+      {
+        "type": "link",
+        "label": "Definitions",
+        "href": "/Definitions",
+        "docId": "Definitions"
+      },
+      {
+        "type": "link",
+        "label": "Pricing",
+        "href": "/Pricing",
+        "docId": "Pricing"
+      },
+      {
+        "type": "link",
+        "label": "FAQ",
+        "href": "/FAQ",
+        "docId": "FAQ"
+      },
+      {
+        "type": "link",
+        "label": "Contact Us",
+        "href": "/Contact",
+        "docId": "Contact"
+      },
+      {
+        "type": "link",
+        "label": "Home_test",
+        "href": "/Home_test",
+        "docId": "Home_test"
+      }
+    ]
+  },
+  "docs": {
+    "Contact": {
+      "id": "Contact",
+      "title": "Contact Us",
+      "description": "Please, reach out if you have any questions, feedback, or suggestions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Definitions": {
+      "id": "Definitions",
+      "title": "Definitions",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "FAQ": {
+      "id": "FAQ",
+      "title": "FAQ",
+      "description": "Here are some of most asked questions and answers that we have. If none",
+      "sidebar": "tutorialSidebar"
+    },
+    "FlipsDiscord": {
+      "id": "FlipsDiscord",
+      "title": "Flips Discord Bot",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "FreePages/CollectionPage": {
+      "id": "FreePages/CollectionPage",
+      "title": "Collection Page",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "FreePages/dashboard": {
+      "id": "FreePages/dashboard",
+      "title": "Dashboard",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "FreePages/homepage": {
+      "id": "FreePages/homepage",
+      "title": "Home Page",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "Home_test": {
+      "id": "Home_test",
+      "title": "Home_test",
+      "description": "Welcome",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Flips Intro",
+      "description": "What is Flips?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Pricing": {
+      "id": "Pricing",
+      "title": "Pricing",
+      "description": "Our pricing is one of the cheapest out of the NFT analytical sites out there.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ProPages/ProCollection": {
+      "id": "ProPages/ProCollection",
+      "title": "Pro Collection",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "ProPages/research": {
+      "id": "ProPages/research",
+      "title": "Research",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "ProPages/Warroom": {
+      "id": "ProPages/Warroom",
+      "title": "War Room",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Test/ProCollection": {
+      "id": "Test/ProCollection",
+      "title": "Pro Collection",
+      "description": "asd",
+      "sidebar": "tutorialSidebar"
+    },
+    "Test/test1": {
+      "id": "Test/test1",
+      "title": "War Room",
+      "description": "sdf",
+      "sidebar": "tutorialSidebar"
+    },
+    "Test/test2": {
+      "id": "Test/test2",
+      "title": "Research",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "Test/test3": {
+      "id": "Test/test3",
+      "title": "War Room",
+      "description": "teste  3",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

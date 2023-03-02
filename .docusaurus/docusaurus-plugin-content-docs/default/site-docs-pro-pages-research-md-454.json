@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ProPages/research",
+  "id": "ProPages/research",
+  "title": "Research",
+  "description": "Overview",
+  "source": "@site/docs/ProPages/research.md",
+  "sourceDirName": "ProPages",
+  "slug": "/ProPages/research",
+  "permalink": "/ProPages/research",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "War Room",
+    "permalink": "/ProPages/Warroom"
+  },
+  "next": {
+    "title": "Test menu",
+    "permalink": "/category/test-menu"
+  }
+}

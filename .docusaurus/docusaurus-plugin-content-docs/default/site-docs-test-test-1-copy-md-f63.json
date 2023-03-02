@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Test/test1 copy",
+  "id": "Test/test1 copy",
+  "title": "War Room",
+  "description": "sdf",
+  "source": "@site/docs/Test/test1 copy.md",
+  "sourceDirName": "Test",
+  "slug": "/Test/test1 copy",
+  "permalink": "/Test/test1 copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pro Collection",
+    "permalink": "/Test/ProCollection"
+  },
+  "next": {
+    "title": "War Room",
+    "permalink": "/Test/test1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "FAQ",
+  "id": "FAQ",
+  "title": "FAQ",
+  "description": "Here are some of most asked questions and answers that we have. If none",
+  "source": "@site/docs/FAQ.md",
+  "sourceDirName": ".",
+  "slug": "/FAQ",
+  "permalink": "/FAQ",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pricing",
+    "permalink": "/Pricing"
+  },
+  "next": {
+    "title": "Contact Us",
+    "permalink": "/Contact"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Test/research",
+  "id": "Test/research",
+  "title": "Research",
+  "description": "Overview",
+  "source": "@site/docs/Test/research.md",
+  "sourceDirName": "Test",
+  "slug": "/Test/research",
+  "permalink": "/Test/research",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pro Collection",
+    "permalink": "/Test/ProCollection"
+  },
+  "next": {
+    "title": "War Room",
+    "permalink": "/Test/test1"
+  }
+}

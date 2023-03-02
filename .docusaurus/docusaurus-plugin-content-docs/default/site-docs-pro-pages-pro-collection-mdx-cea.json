@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ProPages/ProCollection",
+  "id": "ProPages/ProCollection",
+  "title": "Pro Collection",
+  "description": "Description",
+  "source": "@site/docs/ProPages/ProCollection.mdx",
+  "sourceDirName": "ProPages",
+  "slug": "/ProPages/ProCollection",
+  "permalink": "/ProPages/ProCollection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flips Pro - Pages",
+    "permalink": "/category/flips-pro---pages"
+  },
+  "next": {
+    "title": "War Room",
+    "permalink": "/ProPages/Warroom"
+  }
+}

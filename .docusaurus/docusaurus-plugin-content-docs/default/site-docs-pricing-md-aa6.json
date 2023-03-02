@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pricing",
+  "id": "Pricing",
+  "title": "Pricing",
+  "description": "Our pricing is one of the cheapest out of the NFT analytical sites out there.",
+  "source": "@site/docs/Pricing.md",
+  "sourceDirName": ".",
+  "slug": "/Pricing",
+  "permalink": "/Pricing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Definitions",
+    "permalink": "/Definitions"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/FAQ"
+  }
+}

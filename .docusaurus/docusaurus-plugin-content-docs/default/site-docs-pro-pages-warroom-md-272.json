@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ProPages/Warroom",
+  "id": "ProPages/Warroom",
+  "title": "War Room",
+  "description": "",
+  "source": "@site/docs/ProPages/Warroom.md",
+  "sourceDirName": "ProPages",
+  "slug": "/ProPages/Warroom",
+  "permalink": "/ProPages/Warroom",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pro Collection",
+    "permalink": "/ProPages/ProCollection"
+  },
+  "next": {
+    "title": "Research",
+    "permalink": "/ProPages/research"
+  }
+}

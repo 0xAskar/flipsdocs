@@ -1,0 +1,26 @@
+{
+  "unversionedId": "FlipsDiscord",
+  "id": "FlipsDiscord",
+  "title": "Flips Discord Bot",
+  "description": "",
+  "source": "@site/docs/FlipsDiscord.md",
+  "sourceDirName": ".",
+  "slug": "/FlipsDiscord",
+  "permalink": "/FlipsDiscord",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "War Room",
+    "permalink": "/Test/test3"
+  },
+  "next": {
+    "title": "Definitions",
+    "permalink": "/Definitions"
+  }
+}

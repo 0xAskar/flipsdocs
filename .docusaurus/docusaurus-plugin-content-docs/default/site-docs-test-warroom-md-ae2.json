@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Test/Warroom",
+  "id": "Test/Warroom",
+  "title": "War Room",
+  "description": "",
+  "source": "@site/docs/Test/Warroom.md",
+  "sourceDirName": "Test",
+  "slug": "/Test/Warroom",
+  "permalink": "/Test/Warroom",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pro Collection",
+    "permalink": "/Test/ProCollection"
+  },
+  "next": {
+    "title": "Research",
+    "permalink": "/Test/research"
+  }
+}
