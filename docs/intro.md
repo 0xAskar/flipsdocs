@@ -12,7 +12,7 @@ Our site consists of our free to all Degenz Basics, a high quality free
 exploration of the markets. There is Degenz Pro that gives users a premium experience
 as well.
 
-## Degenz Basic
+## Degenz Lite
 
 Degenz Basic gives you access to high quality information about projects, tracking,
 and market summaries.
