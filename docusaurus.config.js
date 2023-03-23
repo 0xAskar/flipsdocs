@@ -71,7 +71,7 @@ const config = {
     ({
       navbar: {
         logo: {
-          alt: 'Flips Logo',
+          alt: 'Degenz Logo',
           src: 'img/flipswatermark.png',
         },
         items: [
@@ -83,8 +83,8 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://www.flips.finance/',
-            label: 'Flips',
+            href: 'https://www.degenz.finance/',
+            label: 'Degenz',
             position: 'right',
           },
           {
@@ -116,7 +116,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Flips.Finance',
+                label: 'Degenz.Finance',
                 href: 'https://www.flips.finance/',
               },
               {
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Flips.Finance, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Degenz.Finance, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
