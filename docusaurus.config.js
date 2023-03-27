@@ -8,7 +8,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Flips.Finance Documentation',
+  title: 'Degenz.Finance Documentation',
   tagline: '',
   url: 'https://www.flips-docs.netlify.app',
   baseUrl: '/',
