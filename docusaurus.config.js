@@ -72,7 +72,7 @@ const config = {
       navbar: {
         logo: {
           alt: 'Degenz Logo',
-          src: 'img/flipswatermark.png',
+          src: 'img/DegenzLogo.png',
         },
         items: [
           {

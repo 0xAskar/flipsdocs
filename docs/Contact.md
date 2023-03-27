@@ -8,8 +8,8 @@ Please, reach out if you have any questions, feedback, or suggestions.
 
 ## Relevant Links
 
-- ### [Flips Twitter](https://twitter.com/flipsfinance)
-- ### [Flips Discord](https://discord.com/invite/W7gkJyjPcA)
+- ### [Degenz Twitter](https://twitter.com/flipsfinance)
+- ### [Degenz Discord](https://discord.com/invite/W7gkJyjPcA)
 
 ## Team
 - ### [YEET](https://twitter.com/0xy33)
