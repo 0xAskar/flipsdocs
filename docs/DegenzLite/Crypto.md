@@ -1,3 +1,3 @@
-This is another table page like rankings and trending dedicated to the crypto market.
+overview
 
-![Project Info](images/crypto.png)
+![Crypto inf](images/crypto.png)
