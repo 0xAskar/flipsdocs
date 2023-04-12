@@ -79,7 +79,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Docs',
+            label: 'Degenz Docs',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -92,6 +92,17 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://twitter.com/flipsfinance',
+            label: 'Twitter',
+            position: 'right',
+          },
+
+          {
+            href: 'https://discord.com/invite/W7gkJyjPcA',
+            label: 'Discord',
+            position: 'right',
+          },
           
         ],
       },
@@ -101,35 +112,6 @@ const config = {
         respectPrefersColorScheme: false,
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Docs',
-                to: '/',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Degenz.Finance',
-                href: 'https://www.flips.finance/',
-              },
-              {
-                label: 'Discord',
-                href: 'http://discord.gg/W7gkJyjPcA',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/flipsfinance',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Degenz.Finance, Inc. Built with Docusaurus.`,
       },
       prism: {
