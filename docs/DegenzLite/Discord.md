@@ -2,10 +2,10 @@
 sidebar_position: 4
 ---
 import { PesterDataTable, PesterDataButton } from "@site/src/components/PesterDataTable";
-import { NFTColumns, NFTCommands, moduleTests } from "./tables/flipsdiscordNFT.table";
-import { cryptoColumns, cryptoCommands } from "./tables/flipsdiscordCrypto.table";
+import { NFTColumns, NFTCommands, moduleTests } from "../tables/flipsdiscordNFT.table";
+import { cryptoColumns, cryptoCommands } from "../tables/flipsdiscordCrypto.table";
 
-# Degenz Discord Bot
+# Degenz Discord 
 
 ## Overview
 The Degenz Discord Bot is one of the most comprehensive efficient NFT/Crypto Bot 

@@ -18,7 +18,7 @@ Degenz Lite gives you access to high quality information about projects, trackin
 and market summaries.
 
 This includes the home page, collection pages, and the dashboard. Learn more 
-in the [Degenz Lite](./category/flips-basic---pages).
+in the [Degenz Lite](./DegenzLite/CollectionPage.md).
 
 ## Degenz Pro
 
@@ -26,6 +26,6 @@ Degenz Pro gives you deeper insight into on-chain analytics, personalized tradin
 dashboards, and real-time data with additional functionalities.
 
 This includes the Pro collection page, War Room, and Research. Learn more 
-in the [Degenz Pro](./category/flips-pro---pages).
+in the [Degenz Pro](./DegenzPro/CollectionPage.md).
 
 To learn about subscriptions and the Degenz Gold Pass, visit the [pricing](./Pricing) page.

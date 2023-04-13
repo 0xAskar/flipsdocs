@@ -12,10 +12,10 @@ our [contact page](/Contact) to reach out to us.
 **No**! The Degenz Gold Pass gives you **unlimited** access to Degenz Pro if you are a current holder.
 
 ### Do I have to pay for Degenz Lite?
-**No**! We are maintaining many of original pages for Degenz for **free**. Learn more about what you can access for free in the [Degenz Lite](./categorydocs/DegenzLite).
+**No**! We are maintaining many of original pages for Degenz for **free**. Learn more about what you can access for free in the [Degenz Lite](./DegenzLite/CollectionPage.md).
 
-### Is the Degenz Discord Bot free?
-**Yes!** Currently the Degenz Discord Bot is free with access to all the NFT and Crypto commands that it enables.
+### Is the Degenz Discord free?
+**Yes!** Currently the Degenz Discord is free with access to all the NFT and Crypto commands that it enables.
 
 ### How do I add the Degenz Discord Bot to my server?
 Head over to the [Discord page](https://www.Degenz.finance/Discord) on Degenz to add the bot to your server.

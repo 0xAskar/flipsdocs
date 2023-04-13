@@ -70,6 +70,7 @@ toggled between floor, holders, or listings [blue box]. The timespan can also be
 
 ![ProjectComparisonGraph](../../static/img/ProjectComparisonGraph.png)
 
+
 ### Estimated Revenues
 
 The Estimated Revenues page digs deeper into the finances for all projects. It provides 
@@ -92,3 +93,4 @@ The 2.5% represents the Opensea royalty fee. We will include other marketplaces 
 The screenshot shows a portion of the projects. You can sort by any of those columns: Royalty,
 Mint Revenue, Royalty Revenue, Total ETH (Royalty Revenue + Mint Revenue) [orange box]
 ![EstimatedRevenues](../../static/img/EstimatedRevenues.png)
+
