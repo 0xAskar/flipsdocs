@@ -25,7 +25,7 @@ in the [Degenz Lite](./DegenzLite/CollectionPage.md).
 Degenz Pro gives you deeper insight into on-chain analytics, personalized trading
 dashboards, and real-time data with additional functionalities.
 
-This includes the Pro collection page, War Room, and Research. Learn more 
+This includes the Pro collection page, War Room, and Intel. Learn more 
 in the [Degenz Pro](./DegenzPro/CollectionPage.md).
 
-To learn about subscriptions and the Degenz Gold Pass, visit the [pricing](./Pricing) page.
+To learn about subscriptions, visit the [pricing](./Pricing) page.

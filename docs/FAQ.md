@@ -17,7 +17,7 @@ our [contact page](/Contact) to reach out to us.
 ### Is the Degenz Discord free?
 **Yes!** Currently the Degenz Discord is free with access to all the NFT and Crypto commands that it enables.
 
-### How do I add the Degenz Discord Bot to my server?
+### How do I add the Degenz Discord to my server?
 Head over to the [Discord page](https://www.Degenz.finance/Discord) on Degenz to add the bot to your server.
 
 ### Is there an API for Degenz?
@@ -26,7 +26,6 @@ Currently, there is **no** API to source the data from Degenz. There *may* be on
 ### How much does the subscription cost?
 You can learn about pricing in the [pricing page](/Pricing).
 
-### How much does the Degenz Pass Gold cost to mint?
-The original mint cost is 0.3Ξ.
+
 
 

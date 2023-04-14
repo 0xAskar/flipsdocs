@@ -1,5 +1,5 @@
 # Crypto 
 
-Table page such as rankings and trendings dedicated to the crypto market.
+This page shows a table with rankings of trends dedicated to the cryptocurrency market.
 
-![Crypto inf](images/crypto.png)
+![Crypto inf](images/Crypto.png)
