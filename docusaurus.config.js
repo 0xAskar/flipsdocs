@@ -93,13 +93,13 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://twitter.com/flipsfinance',
+            href: 'https://twitter.com/DegenzNFT',
             label: 'Twitter',
             position: 'right',
           },
 
           {
-            href: 'https://discord.com/invite/W7gkJyjPcA',
+            href: 'https://discord.com/channels/854438781948002314/978690755424043129',
             label: 'Discord',
             position: 'right',
           },

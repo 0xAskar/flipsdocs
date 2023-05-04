@@ -8,7 +8,7 @@ Please, reach out if you have any questions, feedback, or suggestions.
 
 ## Relevant Links
 
-- ### [Degenz Twitter](https://twitter.com/flipsfinance)
+- ### [Degenz Twitter](https://twitter.com/DegenzNFT)
 - ### [Degenz Discord](https://discord.com/invite/W7gkJyjPcA)
 
 ## Team
