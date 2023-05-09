@@ -39,6 +39,12 @@ export const NFTCommands = [
     Definition: "Displays a collection's current holder count and 24h change",
     Command: "/holder [symbol]"
   },
+
+  {
+    Statistic: "Listings",
+    Definition: "Displays a collection's current holder count and 24h change",
+    Command: "/listings [symbol]"
+  },
   {
     Statistic: "Ranks",
     Definition: "Returns the top 10 collection in order of 24h floor % change.",

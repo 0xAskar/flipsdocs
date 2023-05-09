@@ -7,7 +7,7 @@ import { cryptoColumns, cryptoCommands } from "../tables/flipsdiscordCrypto.tabl
 
 # Degenz Discord 
 
-## Overview
+
 The Degenz Discord Bot is one of the most comprehensive efficient NFT/Crypto Bot 
 in the space. Currently, it is **free**. To add it your server, please visit
 [Degenz Discord page](https://www.degenz.finance/Discord) on our site.

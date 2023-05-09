@@ -39,6 +39,12 @@ export const cryptoCommands = [
     Definition: "Displays the all time high, low, and current price of a token.",
     Command: "/range [token]"
   },
+
+  {
+    Statistic: "Trendy",
+    Definition: "Returns the top 10 trendy tokens..",
+    Command: "/trendy"
+  },
   {
     Statistic: "TVL",
     Definition: "Displays the total value locked of a protocol.",

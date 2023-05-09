@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Degenz Intro
+# Degenz 
 
 ## What is Degenz?
 Degenz.Finance is a NFT analytics site that gives you real-time data, research, and personalized trading dashboards. 
