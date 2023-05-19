@@ -3,4 +3,4 @@ TradingView, it is graphing platform that has one of the best  graphing platform
 
 See what can be done.
 
-![War Room inf](./Images/TradingView.png)
+![GifTradingview inf](./Images/trandingview.gif)
