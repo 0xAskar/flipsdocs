@@ -16,7 +16,7 @@ This section provides important information about a project. This includes:
 - Relevant links
 - Revenue info
 
-![Project Info](Images/ProjectInfo.png)
+![Project Info](Images/ProjectIInfo.png)
 
 ### Market Overview
 
