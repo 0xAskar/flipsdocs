@@ -1,0 +1,1 @@
+![war_room_rankings](./pictures/war_room_rankings.png)

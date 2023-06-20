@@ -1,0 +1,1 @@
+![Intel_project_bids&asks](./pictures/project_bidsasks.gif)

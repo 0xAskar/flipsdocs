@@ -1,0 +1,1 @@
+![Intel_project_trait_distribution](./pictures/project_trait_distribution.gif)

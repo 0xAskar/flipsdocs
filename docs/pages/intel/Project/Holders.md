@@ -1,0 +1,1 @@
+![Intel_project_holders](./pictures/project_holdres.gif)

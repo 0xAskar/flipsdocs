@@ -1,0 +1,1 @@
+![Intel_market_marketplace_leaderboard](./pictures/market_marketplace_leaderboard.png)

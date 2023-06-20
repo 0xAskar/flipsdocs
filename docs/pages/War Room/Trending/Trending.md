@@ -1,0 +1,1 @@
+![war_room_trending](./pictures/war_room_trending.png)

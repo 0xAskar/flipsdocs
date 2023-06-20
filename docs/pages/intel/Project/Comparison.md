@@ -1,0 +1,1 @@
+![Intel_project_comparison](./pictures/project_comparison.png)

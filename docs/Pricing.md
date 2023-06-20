@@ -11,8 +11,8 @@ A Degenz subscriber is given access to all of Degenz Pro perks.
 Learn more about all the Pro perks in the [Degenz](./DegenzPro/CollectionPage.md).
 
 
-- 1 Month: 0,03Ξ
-- 6 Month: 0,2Ξ 
+- 1 Month: 0,03Ξ  $49 fiat
+- 6 Month: 0,14Ξ  $249 fiat
 
 **Perks:**
 

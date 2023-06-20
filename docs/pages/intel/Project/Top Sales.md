@@ -1,0 +1,1 @@
+![Intel_project_top_sales](./pictures/project_top_sales.gif)
