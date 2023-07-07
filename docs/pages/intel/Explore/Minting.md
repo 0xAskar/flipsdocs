@@ -1,1 +1,0 @@
-![Intel_ explore_ minting](./pictures/explore_minting.png)

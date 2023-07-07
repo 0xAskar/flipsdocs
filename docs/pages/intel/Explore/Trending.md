@@ -1,1 +1,0 @@
-![Intel_ explore_trending](./pictures/explore_trending.png)

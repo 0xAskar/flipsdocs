@@ -1,1 +1,0 @@
-![war_room_depth](./pictures//war_room_depth.png)

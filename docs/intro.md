@@ -7,6 +7,4 @@ slug: /
 
 ## What is Degenz?
 
-Degenz.Finance is a NFT analytics site that gives you real-time data, research, and personalized trading dashboards. 
-
-Our website consists of free plans such as Degenz Lite, where you can explore for free what's trending in the NFT market, and we also have the Degenz Pro plan, where you have more detailed content about NFT, so you can be a premium user.
+Degenz.Finance is a terminal that allows anyone to access NFT portfolios such as real-time data, market updates, surveys, trading panels, detailed reports, widgets, leaderboards and we also have podcasts, where we talk about everything that is happening in our market.

@@ -1,5 +1,3 @@
-# Crypto
-
-Returns the current top 100 crypto currencies sorted by market cap.
+In Crypto we can see the main current cryptocurrencies classified by market capitalization.
 
 ![Crypto inf](image_home/Crypto.png)

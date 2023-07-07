@@ -1,1 +1,0 @@
-![Intel_market_marketcap&volume](./pictures/market_marketcap%26volume.png)

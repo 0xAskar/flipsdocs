@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # FAQ
-
+<!-- 
 Here are some of most asked questions and answers that we have. If none 
 of our documentation answers your questions, please see 
 our [contact page](/Contact) to reach out to us.
@@ -24,7 +24,7 @@ Head over to the [Discord page](https://www.Degenz.finance/Discord) on Degenz to
 Currently, there is **no** API to source the data from Degenz. There *may* be one in the future. But, no current plans.
 
 ### How much does the subscription cost?
-You can learn about pricing in the [pricing page](/Pricing).
+You can learn about pricing in the [pricing page](/Pricing). -->
 
 
 

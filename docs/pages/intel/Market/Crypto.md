@@ -1,1 +1,0 @@
-![Intel_market_crypto](./pictures/market_crypto.png)

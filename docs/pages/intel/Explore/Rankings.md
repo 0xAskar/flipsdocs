@@ -1,1 +1,0 @@
-![Intel_ explore_ rankings](./pictures/explore_rankings.png)

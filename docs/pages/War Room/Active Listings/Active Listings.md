@@ -1,1 +1,0 @@
-![war_room_active_listings](./pictures/war_room_active_listings.png)
