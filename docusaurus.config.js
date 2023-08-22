@@ -103,7 +103,6 @@ const config = {
             label: 'Discord',
             position: 'right',
           },
-          
         ],
       },
       colorMode: {

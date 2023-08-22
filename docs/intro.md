@@ -1,10 +1,11 @@
 ---
 sidebar_position: 1
-slug: /
 ---
 
 # Degenz.Finance 
 
 ### What is Degenz?
 
-Degenz.Finance is a terminal that allows anyone to access NFT portfolios such as real-time data, market updates, surveys, trading panels, detailed reports, widgets, leaderboards and we also have podcasts, where we talk about everything that is happening in our market.
+Degenz.Finance is a cutting-edge terminal that opens the doors for everyone to explore and engage with NFT portfolios like never before. Our platform provides seamless access to a diverse range of features, empowering users with real-time data, market updates, surveys, and comprehensive trading panels. Gain valuable insights with our detailed reports, while staying informed through interactive widgets and leaderboards.
+
+But we don't stop there - at Degenz.Finance, we believe in fostering a thriving community. That's why we offer an exclusive podcast series where we discuss all the latest happenings in the dynamic world of NFTs. Whether it's trending artists, emerging trends, or exciting new projects, our podcasts cover it all, keeping you at the forefront of the market.

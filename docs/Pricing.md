@@ -24,4 +24,4 @@ Learn more about all the Pro perks in the [Degenz](./DegenzPages/Collection/Coll
 🎯Unlimited Degenz access  
 🎯Unlimited @DegenzNFT Research access  
 🎯Gated channel in the Degenz discord  
-🎯Primary access to new features + games 
+🎯Primary access to new features + games

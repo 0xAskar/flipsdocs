@@ -1,0 +1,3 @@
+ Your gateway to exploring the most prominent projects in the NFT universe. Here, we present you with a comprehensive overview of each project's Mint Count, minters, pricing details, and project inception. Additionally, we provide direct links that seamlessly take you to each project's dedicated page, where you can access in-depth information.
+
+![Intel_ explore_ minting](./pictures/explore_minting.png)
