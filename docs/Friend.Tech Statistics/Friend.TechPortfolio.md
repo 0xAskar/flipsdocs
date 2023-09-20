@@ -1,0 +1,1 @@
+![Gif Friend.techportlofio inf](./picture/friend.tech.protfolio.png)
