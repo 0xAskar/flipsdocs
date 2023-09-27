@@ -1,3 +1,0 @@
-Marketcap & Volume section, where we provide you with a comprehensive graph showcasing the market capitalization and trading volume of the vibrant NFT market. Stay informed about the latest trends and fluctuations in these key metrics, with updates available for the last 24 hours, 7 days, 30 days, 1 year, and even the complete historical data.
-
-![Intel_market_marketcap&volume](./pictures/market_marketplace%26volume.png)
