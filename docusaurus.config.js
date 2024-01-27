@@ -73,6 +73,7 @@ const config = {
         logo: {
           alt: 'Degenz Logo',
           src: 'img/DegenzLogo.png',
+          href: '/intro',
         },
         items: [
           {
