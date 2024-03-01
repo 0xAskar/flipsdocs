@@ -18,7 +18,6 @@ On our [Degenz](https://www.degenz.finance/airdrops "Degenz") and together with 
 
 In the images, we can see how to learn to grow the instructions.
 
-
 ![Solana](image-3.png)
 
 ![Injective](image-4.png)

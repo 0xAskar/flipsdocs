@@ -21,7 +21,7 @@ For the most up-to-date information on Bitcoin ETFs, we suggest consulting relia
 
 ## **ETFs Flows**
 
-ETF Flows represent the inflows and outflows of money from an ETF (Exchange-Traded Fund) over a specific period. They offer insight into investment activity in the ETF, reflecting investor interest and market sentiment.
+ETFs Flows represent the inflows and outflows of money from an ETF (Exchange-Traded Fund) over a specific period. They offer insight into investment activity in the ETF, reflecting investor interest and market sentiment.
 
 We have a presentation of data on cryptocurrency transactions over time, sorted chronologically by date.
 
