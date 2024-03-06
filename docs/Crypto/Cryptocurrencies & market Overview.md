@@ -32,5 +32,5 @@ The table below presents the 'Top Losers', which are the cryptocurrencies that h
 :::
 ![Top Losers](image-10.png)
 
-
+### Assignment:
 - Remember that all our updates are based on **[Yahoo Finance](https://finance.yahoo.com/crypto)**.
