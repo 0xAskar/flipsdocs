@@ -1,3 +1,5 @@
+### Explore the Marketplace Leaderboard: Unveiling Market Dynamics and Influential Players
+
 This tool provides a dynamic, real-time overview of the main players in a specific marketplace, highlighting their performance and influence. The ranked list is compiled based on key criteria, offering a comprehensive analysis of the market landscape.
 
 Sales count reveals the prominence of users in terms of successful transactions, showcasing not just frequency but also the consistency and impact of their commercial activities.

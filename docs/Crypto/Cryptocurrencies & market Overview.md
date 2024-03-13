@@ -1,18 +1,20 @@
+### Streamlined Access to Cryptocurrencies: Explore Updated Tables for Various Periods
+
 We've made it easier to access a variety of cryptocurrencies with simpler options.  We now have the possibility to switch between different cryptocurrencies and view tables updated in 24-hour periods, 7 days, 30 days or even throughout the year.
 
 Find out how you can do it.
 
-:::info  
-We have an overview of market values, top gainers and top losers.
+:::info Crypto Graphs 
+We have an overview of the market values, the main gainers, the main losers and we also have the option to change the cryptocurrency.
 :::
 ![cryptocurrencies](./gif/cryptocurrencies.gif)
 
-:::info
+:::info Crypto Graphs 
 The chart displays Bitcoin values throughout the current day, showing price fluctuations.
 :::
 ![Cryptocurrencies & market Oveview inf](image-6.png)
 
-:::info
+:::info Crypto Graphs 
 The graph displays the values of Ethereum throughout the current day, showing the price fluctuations.
 :::
 ![Cryptocurrencies & market Oveview inf](image-7.png) 
@@ -32,5 +34,5 @@ The table below presents the 'Top Losers', which are the cryptocurrencies that h
 :::
 ![Top Losers](image-10.png)
 
-### Assignment:
+### Source:
 - Remember that all our updates are based on **[Yahoo Finance](https://finance.yahoo.com/crypto)**.

@@ -1,4 +1,7 @@
+### Bitcoin Puppets: Exclusive NFT Collection Featuring Bitcoin-Themed Digital Puppets
+
 Bitcoin Puppets is a collection of NFTs (Non-Fungible Tokens) consisting of digital puppets themed around Bitcoin. Each NFT in the collection is unique and indivisible, representing an exclusive digital asset that can be bought, sold, or traded on specialized online markets.
+
 :::tip Take a look at our tables.
 :::
 

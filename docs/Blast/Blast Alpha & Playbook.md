@@ -1,3 +1,5 @@
+### Introducing Blast: Earn Yields on Ethereum and Stablecoins with Pacman's Ethereum Layer 2
+
 Blast is a new Ethereum Layer 2 (L2) created by Pacman, the founder of Blur, with the support of Paradigm. It allows users to earn yields on their ETH and stablecoins while they are being used on the L2, with standard yield rates of 4% for ETH and 5% for stablecoins.
 By bridging to Blast, your ETH earns yield as if it were staked, something that typically doesn't happen on other L2s.
 The project has gained rapid prominence, especially after the success of Pacman's previous project, Blur, with many people interested due to the opportunity to participate in an airdrop and the reputation of the founder and the previous project. 
@@ -121,5 +123,5 @@ It's important to note that there is a 14-day withdrawal period. If you prefer t
 
 
 
-### Assignment:
+### Source:
 - All airdrop releases and new platforms, such as Blast Alpha and Playbook, are information provided by [i like tabz](https://twitter.com/iliketabz "i like tabz").
