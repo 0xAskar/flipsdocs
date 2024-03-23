@@ -121,7 +121,7 @@ To withdraw, make sure you are on the Blast network in your wallet. Enter the am
 
 It's important to note that there is a 14-day withdrawal period. If you prefer to avoid this, you can choose to use an unofficial bridge. However, always be careful when using any unofficial bridge.
 
-
-
 ### Source:
 - All airdrop releases and new platforms, such as Blast Alpha and Playbook, are information provided by [i like tabz](https://twitter.com/iliketabz "i like tabz").
+
+[**Blast Alpha & Playbook**](/docs/Blast/Blast%20Alpha%20&%20Playbook.md). 

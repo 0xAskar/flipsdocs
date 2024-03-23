@@ -58,3 +58,5 @@ In Trending leaderboar, we present the usernames of the participants who are gen
 In the Online leaderboard, we highlight the users who are active and available at the moment, where you'll find the usernames of the participants who are online and ready to trade, along with the key price of their works or assets available for purchase.
 :::
 ![Friend.tech.Dasboard- Leaderboards-Online](image-4.png)
+
+[**Friend.Tech.Dashboard**](/docs/Friend%20Tech/Friend.Tech.Dashboard.md)
